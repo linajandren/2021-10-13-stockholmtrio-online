@@ -80,7 +80,10 @@ displayed if the 'eventbrite' field in the header is not set.
   scrolling="auto">
 </iframe>
 {% endif %}
-
+<strong>
+  <a href="https://www.kth.se/form/613f62e4b7be520013891d2f">Sign up for the workshop</a>
+ </strong>
+  
 
 <h2 id="general">General Information</h2>
 
